@@ -8,7 +8,7 @@ I have also built other software systems, such as [dbt-bigquery-preview](https:/
 
 I love writing too! I've got a personal substack, [Partícipes](https://participes.substack.com/), where I publish essays and pieces of fiction. I gave a shot at technical writing once, and [shared an article](https://towardsanalyticsengineering.substack.com/p/how-to-configure-dbt-projects-in) that showed how we could replicate dbt's recommended structure in BigQuery. I think it turned out OK, and it's been viewed over 3k times at the time of writing.
 
-Beyond that, I'm really into lifting weights 🏋️ and calisthenics (currently working on my handstand), meditation 🐲, tech that feels nice ([this](https://daylightcomputer.com/) would be such an example), reading, and much more.
+Beyond that, I'm really into lifting weights 🏋️ and calisthenics (currently working on my handstand), meditation 🐲, tech that feels nice ([this](https://daylightcomputer.com/) would be such an example), reading, writing, and live music.
 
 I'm currently looking for a job! My main requirements are:
 * hybrid / on-site. I believe there's so much tacit knowledge that is hard to learn fully remote. Also, I like being around people.
