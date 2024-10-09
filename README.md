@@ -12,7 +12,7 @@ Beyond that, I'm really into lifting weights 🏋️ and calisthenics (currently
 
 I'm currently looking for a job! My main requirements are:
 * hybrid / on-site. I believe there's so much tacit knowledge that is hard to learn fully remote. Also, I like people.
-* I'd help building the product that is the main source of revenue for the company. This aligns with my long-term career goals.
+* I'd help building the data infrastructure of the company. I want to make decision making easier, and better!
 * The product seems interesting, and solves a problem.
 * Senior people I can learn from!
 
