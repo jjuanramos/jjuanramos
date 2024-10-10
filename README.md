@@ -2,7 +2,7 @@ Hi there!
 
 Glad you found my profile 😄 my name is Juan, and I am an analytics-engineer-working-towards-a-more-technical-role kind of guy.
 
-I left my work at Ebury on January 2024, and since then I have been focused on [42 Madrid](https://www.42madrid.com/en/), an innovative system where you get to learn about software engineering fundamentals by building projects in C and C++, such an example would be [minishell](https://github.com/cmunoz-g/minishell), a mini recreation of bash.
+I left my work at Ebury on January 2024, and since then I have been focused on [42 Madrid](https://www.42madrid.com/en/), an innovative system where you get to learn about software engineering fundamentals by building projects in C and C++, such an example would be [minishell](https://github.com/cmunoz-g/minishell), a mini recreation of bash, or [cub3d](https://github.com/cmunozjjuanramos/cub3d), an implementation of the raycasting technique.
 
 I have also built other software systems, such as [dbt-bigquery-preview](https://github.com/jjuanramos/dbt-bigquery-preview), a Visual Studio Code extension that improved the dbt's Developer Experience, with over 1.5k downloads.
 
