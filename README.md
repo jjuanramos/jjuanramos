@@ -10,14 +10,6 @@ I love writing too! I've got a personal substack, [Partícipes](https://particip
 
 Beyond that, I'm really into lifting weights 🏋️ and calisthenics (currently working on my handstand), meditation 🐲, tech that feels nice ([this](https://daylightcomputer.com/) would be such an example), reading, writing, and live music.
 
-I'm currently looking for a job! My main requirements are:
-* hybrid / on-site. I believe there's so much tacit knowledge that is hard to learn fully remote. Also, I like people.
-* I'd help building the data infrastructure of the company. I want to make decision making easier, and better!
-* The product seems interesting, and solves a problem.
-* Senior people I can learn from!
-
-Everything else is optional, so if you've got something that fits those requirements, please reach out 😃
-
 See you!
 
 <!--
